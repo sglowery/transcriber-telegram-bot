@@ -4,7 +4,7 @@ from distutils.core import setup
 
 setup(
     name='transcriber-telegram-bot',
-    version='1.0',
+    version='1.1',
     description='Telegram bot to transcribe voice messages',
     author='Nick Lowery',
     license='MIT',
